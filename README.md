@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kupicki !
+- 👀 I'm interested in front-end
+- 🌱 I'm currently learning HTML, JS and CSS.
+- 💞️ I'm going through a career transition.
+- 📫 You can talk to me through my Linkedin, link in profile.
